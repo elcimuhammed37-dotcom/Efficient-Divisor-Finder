@@ -1,0 +1,1 @@
+# tam bölen bulma algortiması verimlilik deneyi
